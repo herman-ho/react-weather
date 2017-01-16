@@ -3,7 +3,7 @@ This is a React application that accepts a user input city and returns the
 current temperature. The application requires an API key from
 [OpenWeatherMap](https://openweathermap.org/).
 
-To run:
+To run locally:
 ```bash
 git clone https://github.com/herman-ho/react-weather.git
 cd react-weather
@@ -13,3 +13,4 @@ npm install
 webpack
 node server.js
 ```
+[Also hosted on Heroku](https://hho-react-weather.herokuapp.com/)
